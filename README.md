@@ -4,6 +4,7 @@ This video chat application was built utilizing Node.JS Javascript, HTML, and CS
 Technologies used: Express, Socket.io, PeerJS, UUID
 
 Features:
+
 -Room ID is automatically assigned/created
 
 -Ability for users to view themselves and others within the same lobby
